@@ -1,5 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.ehappy.exsqlite01",
-               "sha256_cert_fingerprints": ["D9:95:61:EB:EE:A9:CB:85:AC:70:B2:86:EA:CA:0E:F1:74:C6:9F:C6:44:EE:5B:AC:09:E8:FB:CD:13:44:D2:BF"] }
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tw.com.kingfor.dao",
+    "sha256_cert_fingerprints":
+    ["F9:AC:C9:BD:03:AD:B7:42:28:B9:58:EA:C2:BD:39:A6:16:88:C6:AF:94:B2:67:85:BC:77:EE:90:E0:AC:28:5C"]
+  }
 }]
